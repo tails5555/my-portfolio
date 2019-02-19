@@ -1,0 +1,11 @@
+export {default as django} from './django.png';
+export {default as java} from './java.png';
+export {default as mongo_db} from './mongo_db.png';
+export {default as mysql} from './mysql.png';
+export {default as python} from './python.png';
+export {default as reactjs} from './reactjs.png';
+export {default as redis} from './redis.png';
+export {default as redux} from './redux.png';
+export {default as spring} from './spring.png';
+export {default as vuejs} from './vuejs.png';
+export {default as javascript} from './javascript.png';
