@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/prography-front/precache-manifest.9cf019c46ff87bf3184b6cd184957d0c.js"
+  "/prography-front/precache-manifest.98eb899ca128fecb77fdf3731ca42034.js"
 );
 
 workbox.clientsClaim();
