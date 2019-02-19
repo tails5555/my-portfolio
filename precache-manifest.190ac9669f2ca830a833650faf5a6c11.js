@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/prography-front/static/js/runtime~main.db7cfbad.js"
   },
   {
-    "revision": "36d3fa2fdef01ccab1bd",
-    "url": "/prography-front/static/js/main.36d3fa2f.chunk.js"
+    "revision": "b37818977e997be1dd1e",
+    "url": "/prography-front/static/js/main.b3781897.chunk.js"
   },
   {
     "revision": "32e59f35a6e83eae643b",
     "url": "/prography-front/static/js/2.32e59f35.chunk.js"
   },
   {
-    "revision": "36d3fa2fdef01ccab1bd",
+    "revision": "b37818977e997be1dd1e",
     "url": "/prography-front/static/css/main.cc08d09b.chunk.css"
   },
   {
-    "revision": "033ced384a5365d69411a194fffe5eb5",
+    "revision": "903eb0cec10ceac73e9ba93256fd75f7",
     "url": "/prography-front/index.html"
   }
 ];
