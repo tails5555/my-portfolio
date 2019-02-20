@@ -97,7 +97,7 @@ export const PROJECT_LIST = [
     },
     {
         projectImage : lovelive_crawlin_project,
-        projectName : 'Inven 러브라이브 아이돌 프로젝트 크롤링 서비스',
+        projectName : 'Inven 러브라이브 크롤링 서비스',
         projectDate : '2018/10 ~ 2018/11',
         projectSkill : ['Python', 'django', 'beautifulsoup', 'React', 'Redux', 'Bootstrap', 'd3'],
         projectContext : `

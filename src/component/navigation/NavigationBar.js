@@ -38,11 +38,6 @@ class NavigationBar extends React.PureComponent {
                     <Nav className="ml-auto" navbar>
                         <NavItem>
                             <NavLink style={ location.pathname === '/' ? activeStyle : null } tag={Link} to="/">
-                                <i className="fas fa-home" /> Home
-                            </NavLink>
-                        </NavItem>
-                        <NavItem>
-                            <NavLink style={ location.pathname === '/intro' ? activeStyle : null } tag={Link} to="/intro">
                                 <i className="fas fa-user-tie" /> Introduce
                             </NavLink>
                         </NavItem>

@@ -3,7 +3,7 @@ import { Nav, NavItem, NavLink } from 'reactstrap';
 import classnames from 'classnames';
 
 const ProjectBar = ({ toggleAction, activeTab, projects }) => (
-    <Nav tabs>
+    <Nav pills>
     {
         projects.map((project, idx) => (
             <NavItem 
