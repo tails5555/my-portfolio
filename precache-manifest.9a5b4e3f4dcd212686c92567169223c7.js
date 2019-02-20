@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/prography-front/static/media/java.883fbd7c.png"
   },
   {
-    "revision": "8188a1ca87d363f67242",
+    "revision": "051a6ab418cb9c99f47e",
     "url": "/prography-front/static/css/main.2f156191.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/prography-front/static/js/runtime~main.db7cfbad.js"
   },
   {
-    "revision": "bfd7c21e3415ff670ff5",
-    "url": "/prography-front/static/js/2.bfd7c21e.chunk.js"
+    "revision": "52b4691d3f2cc7a9acf6",
+    "url": "/prography-front/static/js/2.52b4691d.chunk.js"
   },
   {
     "revision": "35c1a6b4023c2522ba90b1240cc013af",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/prography-front/static/media/django.22ea69e8.png"
   },
   {
-    "revision": "8188a1ca87d363f67242",
-    "url": "/prography-front/static/js/main.8188a1ca.chunk.js"
+    "revision": "051a6ab418cb9c99f47e",
+    "url": "/prography-front/static/js/main.051a6ab4.chunk.js"
   },
   {
     "revision": "03100b43c8696c9cda55c0cb1fb1c53f",
@@ -76,7 +76,11 @@ self.__precacheManifest = [
     "url": "/prography-front/static/media/javascript.0cded3a3.png"
   },
   {
-    "revision": "a1d00660afdad138d7c74b49eba1407f",
+    "revision": "f8a48157e7797bc8357159e359937b26",
+    "url": "/prography-front/static/media/kang_photo.f8a48157.jpg"
+  },
+  {
+    "revision": "d1193eba6e1dc7f5306d1dd0a19b3fed",
     "url": "/prography-front/index.html"
   }
 ];
