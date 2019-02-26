@@ -1,8 +1,8 @@
 {
-  "name": "prography-front",
+  "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tails5555.github.io/prography-front",
+  "homepage": "https://tails5555.github.io/my-portfolio",
   "dependencies": {
     "classnames": "^2.2.6",
     "react": "^16.8.2",

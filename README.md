@@ -1,8 +1,6 @@
-# Prography 4th Front-End Assignment
+# My Portfolio
 
-프로그라피 4기 Front-End 분야 사전 과제 - 개인 포트폴리오
-
-https://tails5555.github.io/prography-front/
+https://tails5555.github.io/my-portfolio/
 
 메뉴는 Introduce(간단한 자기소개), Projects(프로젝트), Skills(개발 스킬) 로 구성되어 있습니다.
 
